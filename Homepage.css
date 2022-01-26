@@ -34,7 +34,7 @@ text-align: center;
 }
 .landing
 {
-background-image: url('C:/Users/home/OneDrive/Desktop/Homepage/images/bg2.png');
+background-image: url('images/bg2.png');
 background-repeat: no-repeat;
 }
 .subheading
@@ -60,7 +60,7 @@ color:"Black";
 
 .main
 {
-  background-image: url('C:/Users/home/OneDrive/Desktop/Homepage/images/aboutbig.png');
+  background-image: url('images/aboutbig.png');
 background-repeat: no-repeat;
 padding: 50px;
 }
@@ -70,7 +70,7 @@ padding: 50px;
   padding-top: 100px;
 }
 .contactlanding{
-  background-image: url('C:/Users/home/OneDrive/Desktop/Homepage/images/Contactbig.png');
+  background-image: url('images/Contactbig.png');
   height: 1100px  ;
   width: 1920px;
 background-repeat: no-repeat;
@@ -86,7 +86,7 @@ padding:10px;
   padding-top: 70px;
 }
 .aboutus{
-  background-image: url('C:/Users/home/OneDrive/Desktop/Homepage/images/aboutbig.png');
+  background-image: url('images/aboutbig.png');
   background-repeat: no-repeat;  
 }
 .input{
